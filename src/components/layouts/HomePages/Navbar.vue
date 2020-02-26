@@ -27,8 +27,8 @@
           <div id="navbarcollapse" class="collapse navbar-collapse">
             <ul class="navbar-nav ml-auto">
               <router-link :to="{name: 'Home'}"><a href="index.html" class="nav-link active ">Home</a></router-link>
-              <router-link :to="{name: 'Post'}"><a href="index.html" class="nav-link active ">Post</a></router-link>
               <router-link :to="{name: 'Blog'}"><a href="index.html" class="nav-link active ">Blog</a></router-link>
+              <router-link :to="{name: 'Post'}"><a href="index.html" class="nav-link active ">Post</a></router-link>
 
               <li class="nav-item"><a href="#" class="nav-link ">Contact</a>
               </li>
